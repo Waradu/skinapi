@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/:player",
+      "destination": "/api/skin/:player"
+    }
+  ]
+}
